@@ -11,7 +11,7 @@ export default {
   themeConfig: {
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2022-PRESENT X-swordx",
+      copyright: "Copyright © 2022-PRESENT X-Swordx",
     },
     nav: [
       // { text: "关于我", link: "https://blog.yangchaoyi.vip/" },
