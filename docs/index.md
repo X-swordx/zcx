@@ -1,9 +1,9 @@
 ---
 layout: home
 hero:
-  name: ChoDocs
+  name: ZcxDocs
   text: Front-end learning document collection
-  tagline: '座右铭: 学如逆水行舟，不进则退。'
+  tagline: '座右铭: 学如逆水行舟，不进则退'
   image:
     src: /coding.svg
     alt: ChoDocs
@@ -13,7 +13,7 @@ hero:
       link: /fe/guide
     - theme: alt
       text: 源码
-      link: https://github.com/Chocolate1999/chodocs
+      link: https://github.com/X-swordx/zcx
 features:
   - icon: 📓
     title: 前端算法
