@@ -1,7 +1,8 @@
 import sidebar from "./sidebar";
 
 export default {
-  title: "ChoDocs",
+  base: "/zcx/",
+  title: "ZcxDocs",
   description: "Front-end learning document collection.",
   markdown: {
     theme: "material-palenight",
@@ -10,14 +11,14 @@ export default {
   themeConfig: {
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2022-PRESENT Chocolate and ChoDocs contributors",
+      copyright: "Copyright © 2022-PRESENT X-swordx",
     },
     nav: [
-      { text: "关于我", link: "https://blog.yangchaoyi.vip/" },
-      { text: "Github", link: "https://github.com/Chocolate1999" },
+      // { text: "关于我", link: "https://blog.yangchaoyi.vip/" },
+      { text: "Github", link: "https://github.com/X-swordx" },
     ],
     editLink: {
-      pattern: "https://github.com/Chocolate1999/chodocs/edit/main/docs/:path",
+      pattern: "https://github.com/X-swordx/zcx/edit/main/docs/:path",
     },
     sidebar,
   },
