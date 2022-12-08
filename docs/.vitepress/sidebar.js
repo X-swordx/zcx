@@ -1,7 +1,7 @@
 export default {
   "/fe/": [
     {
-      text: "📓 前端算法 JS",
+      text: "📓 前端算法",
       collapsible: true,
       collapsed: false,
       items: [{ text: "导读", link: "/fe/algorithm/ch0" }],

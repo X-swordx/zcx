@@ -1,7 +1,7 @@
 import sidebar from "./sidebar";
 
 export default {
-  base: "/zcx/",
+  base: "/zcx-docs/",
   title: "ZcxDocs",
   description: "Front-end learning document collection.",
   markdown: {
